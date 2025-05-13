@@ -1,0 +1,26 @@
+body {t src="script.js"></script>
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;lopment!");   background-color: #f0f8ff;
+    padding: 40px;;
+    text-align: center;
+}   text-align: center;
+h1 {
+    color: #2c3e50;
+}   color: #2c3e50;
+p {
+    font-size: 18px;
+}   font-size: 18px;
+button {
+    padding: 10px 20px;
+    font-size: 16px;px;
+    background-color: #3498db;
+    border: none;lor: #3498db;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;px;
+}   cursor: pointer;
+button:hover {
+    background-color: #2980b9;
+}   background-color: #2980b9;
+<link rel="stylesheet" href="style.css">}
+
